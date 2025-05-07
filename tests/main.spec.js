@@ -16,7 +16,7 @@ describe("isPar kata", () => {
 
 // Ejercicio 2: Calcular el factorial de un número
 describe("factorial kata", () => {
-  it("should exist a variable named factorial", () => {
+  it("should exist something named factorial", () => {
     expect(factorial).not.toBe(undefined);
   });
   it("should be a function", () => {
